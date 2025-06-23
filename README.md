@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=difinageorge&label=Profile%20views&color=0e75b6&style=flat" alt="difinageorge" /> </p>
 
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning :: **Machine Learning**
 
-- 📫 How to reach me **difina.georgecs@gmail.com**
+- 📫 How to reach me :: **difina.georgecs@gmail.com**
 
-- ⚡ Fun fact **I write better code after midnight and with coffee that’s probably too strong for most people.**
+- ⚡ Fun fact :: **I write better code after midnight and with coffee that’s probably too strong for most people.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
