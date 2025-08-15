@@ -43,4 +43,4 @@ When I’m not coding, I’m exploring new tech tools or designing cute, aesthet
 
 ---
 
-<p align="center">💬 *"Code like a girl: elegant, efficient, and unstoppable!"*</p>
+<p align="center">💬 *"Code like a girl: elegant, efficient, and unstoppable!"* </p>
