@@ -9,11 +9,12 @@
 
 ---
 
-## 💖 About Me
+<h2 align="center"> ## 💖 About Me </h2>
+<p align="center">
 I’m a tech-loving student who blends **creativity and logic** to bring ideas to life.  
 My passion lies in **software development, AI/ML, and beautiful user interfaces**.  
 When I’m not coding, I’m exploring new tech tools or designing cute, aesthetic layouts.  
-
+</p>
 ---
 
 ## 🛠 Skills & Tools
