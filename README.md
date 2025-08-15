@@ -1,60 +1,54 @@
-<!-- Banner -->
-![Tech Banner](https://i.imgur.com/J6Hh3JQ.png) <!-- Replace with your own girly tech banner -->
-
-# 🌸 Hey, I'm Difina! 💻✨
-
-🎓 **BSc (Hons) Computer Science** student at **York St John University** (starting September 2025)  
-💡 Future **Software Engineer** & **AI Enthusiast**  
-🌏 From India → Moving to the UK this September  
-☕ Fuelled by coffee, curiosity, and clean code  
+<!-- Header -->
+<h1 align="center">✨ Hey, I'm Difina! 🌸💻</h1>
+<p align="center">
+🎓 BSc (Hons) Computer Science @ York St John University (Sept 2025)<br>
+💡 Aspiring Software Engineer & AI Enthusiast<br>
+🌏 From India → Moving to the UK soon<br>
+☕ Fueled by coffee, curiosity & creativity
+</p>
 
 ---
 
 ## 💖 About Me
-I’m a tech-loving girl who believes code can be **beautiful, powerful, and creative**.  
-When I’m not building projects, I’m learning new frameworks, exploring AI, and adding a personal touch to everything I make.  
-I’m all about **mixing creativity with logic** to solve real-world problems.  
+I’m a tech-loving student who blends **creativity and logic** to bring ideas to life.  
+My passion lies in **software development, AI/ML, and beautiful user interfaces**.  
+When I’m not coding, I’m exploring new tech tools or designing cute, aesthetic layouts.  
 
 ---
 
-## 🛠 My Skills
-
+## 🛠 Skills & Tools
 | Languages        | Frameworks & Tools   | Technologies     |
 |------------------|----------------------|------------------|
 | 💜 **Python**    | 🌸 Flask              | 🤖 Machine Learning |
 | 💛 **Java**      | 💗 Streamlit          | 🧠 Deep Learning |
-| 💙 **C**         | 🎀 Git                | 🗂 Databases     |
-| 💖 **SQL**       | 📊 Pandas, NumPy      | 🌐 Cloud         |
-| 💗 **HTML/CSS**  | 🎨 Matplotlib         | 📈 Data Analysis |
+| 💙 **C**         | 🎀 Git, GitHub        | 🗂 Databases     |
+| 💖 **SQL**       | 📊 Pandas, NumPy      | 📈 Data Analysis |
+| 💗 **HTML/CSS**  | 🎨 Matplotlib         | 🌐 Web Dev       |
 
 ---
 
 ## 🌟 Featured Projects
-- 🎯 **Tic Tac Toe – Java GUI** → Fun interactive desktop game with player vs computer mode  
-- 🚢 **Titanic Survival EDA** → Data analysis project uncovering survival trends  
+- 🎯 **Tic Tac Toe – Java GUI** → Fun desktop game with player vs computer mode  
+- 🚢 **Titanic Survival EDA** → Data analysis on passenger survival trends  
 - 🎬 **Movie Rating Predictor** → ML regression model predicting IMDb ratings  
 
 ---
 
-## 📊 GitHub Stats & Streaks
-![Difina's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=rose_pine)  
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=rose_pine&border_radius=20)  
-
-🐍 **GitHub Activity Snake**  
-![GitHub Snake](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)  
-
----
-
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=ff69b4&style=flat)  
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=omni&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=omni&hide_border=true" height="150" />
+</p>
 
 ---
 
 ## 💌 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:difina.georgecs@gmail.com)  
+<p align="center">
+<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+<a href="mailto:difina.georgecs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-💬 *"Code like a girl: elegant, efficient, and unstoppable!"*
+<p align="center">💬 *"Code like a girl: elegant, efficient, and unstoppable!"*</p>
