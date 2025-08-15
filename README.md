@@ -1,29 +1,60 @@
-<h1 align="center">Hi 👋, I'm Difina George</h1>
-<h3 align="center">A passionate Tech Enthusiast from India</h3>
+<!-- Banner -->
+![Tech Banner](https://i.imgur.com/J6Hh3JQ.png) <!-- Replace with your own girly tech banner -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=difinageorge&label=Profile%20views&color=0e75b6&style=flat" alt="difinageorge" /> </p>
+# 🌸 Hey, I'm Difina! 💻✨
 
+🎓 **BSc (Hons) Computer Science** student at **York St John University** (starting September 2025)  
+💡 Future **Software Engineer** & **AI Enthusiast**  
+🌏 From India → Moving to the UK this September  
+☕ Fuelled by coffee, curiosity, and clean code  
 
-- 🌱 I’m currently learning :: **Machine Learning**
+---
 
-- 📫 How to reach me :: **difina.georgecs@gmail.com**
+## 💖 About Me
+I’m a tech-loving girl who believes code can be **beautiful, powerful, and creative**.  
+When I’m not building projects, I’m learning new frameworks, exploring AI, and adding a personal touch to everything I make.  
+I’m all about **mixing creativity with logic** to solve real-world problems.  
 
-- ⚡ Fun fact :: **I write better code after midnight and with coffee that’s probably too strong for most people.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/difinageorge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="difinageorge" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/difinageorge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="difinageorge" height="30" width="40" /></a>
-<a href="https://kaggle.com/difinageorge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="difinageorge" height="30" width="40" /></a>
-<a href="https://instagram.com/difinageorge.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="difinageorge.dev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/difina_george" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="difina_george" height="30" width="40" /></a>
-</p>
+## 🛠 My Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+| Languages        | Frameworks & Tools   | Technologies     |
+|------------------|----------------------|------------------|
+| 💜 **Python**    | 🌸 Flask              | 🤖 Machine Learning |
+| 💛 **Java**      | 💗 Streamlit          | 🧠 Deep Learning |
+| 💙 **C**         | 🎀 Git                | 🗂 Databases     |
+| 💖 **SQL**       | 📊 Pandas, NumPy      | 🌐 Cloud         |
+| 💗 **HTML/CSS**  | 🎨 Matplotlib         | 📈 Data Analysis |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=difinageorge&show_icons=true&locale=en&layout=compact" alt="difinageorge" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=difinageorge&show_icons=true&locale=en" alt="difinageorge" /></p>
+## 🌟 Featured Projects
+- 🎯 **Tic Tac Toe – Java GUI** → Fun interactive desktop game with player vs computer mode  
+- 🚢 **Titanic Survival EDA** → Data analysis project uncovering survival trends  
+- 🎬 **Movie Rating Predictor** → ML regression model predicting IMDb ratings  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=difinageorge&" alt="difinageorge" /></p>
+---
+
+## 📊 GitHub Stats & Streaks
+![Difina's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=rose_pine)  
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=rose_pine&border_radius=20)  
+
+🐍 **GitHub Activity Snake**  
+![GitHub Snake](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)  
+
+---
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=ff69b4&style=flat)  
+
+---
+
+## 💌 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:difina.georgecs@gmail.com)  
+
+---
+
+💬 *"Code like a girl: elegant, efficient, and unstoppable!"*
