@@ -3,7 +3,7 @@
 <p align="center">
 🎓 BSc (Hons) Computer Science @ York St John University (Sept 2025)<br>
 💡 Aspiring Software Engineer & AI Enthusiast<br>
-🌏 From India → Moving to the UK soon<br>
+🌏 From India → to UK<br>
 ☕ Fueled by coffee, curiosity & creativity
 </p>
 
