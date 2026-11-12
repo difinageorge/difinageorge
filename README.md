@@ -131,38 +131,6 @@ I'm continuously building my knowledge through projects, experimentation and han
 
 ---
 
-## 📈 GitHub Journey
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=difinageorge&bg_color=10070C&color=F8F0F3&line=C77B9B&point=E5B5C7&area=true&hide_border=true"
-  alt="GitHub Activity Graph"
-/>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=difinageorge&show_icons=true&hide_border=true&bg_color=10070C&title_color=E5B5C7&icon_color=C77B9B&text_color=F8F0F3"
-  height="180"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=difinageorge&layout=compact&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3"
-  height="180"
-  alt="Top Languages"
-/>
-
-</div>
-
----
 
 ## 💌 Let's Connect
 
