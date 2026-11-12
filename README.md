@@ -1,331 +1,199 @@
-
-<!-- ========================================================= -->
-<!--                   DIFINA GEORGE                            -->
-<!--              PREMIUM BURGUNDY README                       -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<!-- ======================= HERO ========================== -->
-
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:10070C,50:451126,100:701A3D&text=HEY,%20I'M%20DIFINA&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20ENTHUSIAST%20%7C%20CREATIVE%20TECHNOLOGIST&descAlignY=60&descSize=16&descColor=F8F0F3&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:10070C,50:451126,100:701A3D&text=HEY,%20I'M%20DIFINA&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=GEN%20AI%20ASPIRANT%20%7C%20AI%20ENTHUSIAST%20%7C%20CREATIVE%20TECHNOLOGIST&descAlignY=60&descSize=16&descColor=F8F0F3&animation=fadeIn"
 />
 
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=3000&pause=1000&color=E5B5C7&center=true&vCenter=true&width=800&lines=Computer+Science+Student+%F0%9F%8C%B8;Software+Engineering+%F0%9F%92%BB;AI+%26+Machine+Learning+%F0%9F%A4%96;Building+with+code+%26+creativity+%E2%9C%A8"
+  src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=3000&pause=1000&color=E5B5C7&center=true&vCenter=true&width=800&lines=Computer+Science+Student+%F0%9F%8C%B8;GEN+AI+ASPIRANT+%F0%9F%A4%96;AI+%26+Machine+Learning+%F0%9F%A7%A0;Building+with+code+%26+creativity+%E2%9C%A8"
   alt="Typing animation"
 />
 
-<br><br>
+<br>
 
 <a href="https://github.com/difinageorge">
-<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=10070C">
+  <img src="https://img.shields.io/badge/GitHub-10070C?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/difina-george-113420327/">
-<img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=701A3D">
+  <img src="https://img.shields.io/badge/LinkedIn-451126?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn">
 </a>
 
 <a href="mailto:difina.georgecs@gmail.com">
-<img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=701A3D">
+  <img src="https://img.shields.io/badge/Email-701A3D?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email">
 </a>
 
 </div>
 
 ---
 
-<!-- ===================== ABOUT ME ======================== -->
+## 🌸 About Me
 
-<div align="center">
+Hey! I'm **Difina**, a Computer Science student at **York St John University**, passionate about turning ideas into meaningful technology.
 
-# 🌸 ABOUT ME
+🎓 **BSc (Hons) Computer Science** — York St John University  
+📅 Started September 2025  
+🇬🇧 Based in the UK  
+🤖 **GEN AI ASPIRANT**  
+💻 Interested in software development, AI/ML and beautiful user experiences  
+☕ Powered by coffee, curiosity and creativity
 
-</div>
+I enjoy combining **logic + creativity** to build projects that are not only functional, but also intuitive and visually engaging.
 
-<table>
-<tr>
-<td width="100%">
+---
 
-<div align="center">
-
-### 🤍 Hello there!
-
-</div>
-
-I'm **Difina**, a Computer Science student who loves combining **logic, creativity, and technology** to turn ideas into working digital experiences.
-
-🎓 **BSc (Hons) Computer Science**  
-🏫 **York St John University**  
-📍 **United Kingdom**
+## 🧠 My Tech World
 
 I'm particularly interested in:
 
-💻 Software Development  
-🤖 Artificial Intelligence & Machine Learning  
-🎨 Creative and beautiful user interfaces  
-📊 Data Analysis  
-🌱 Learning new technologies
-
-When I'm not coding, I enjoy exploring new technology, experimenting with ideas, and creating clean, aesthetic digital experiences.
-
-</td>
-</tr>
-</table>
+- 🤖 Generative AI & Artificial Intelligence
+- 🧠 Machine Learning & Deep Learning
+- 💻 Software Development
+- 🌐 Web Development
+- 📊 Data Analysis & Visualisation
+- 🗄️ Databases
+- 🎨 UI/UX & Creative Technology
+- 🔐 Exploring how emerging technologies can solve real-world problems
 
 ---
 
-<!-- ===================== PROFILE ========================= -->
+## 🛠️ Skills & Tools
 
-<div align="center">
+### 💻 Programming Languages
 
-# 💫 MY TECH WORLD
+<p align="center">
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,java,c,sql,html,css" />
 
-<table>
-<tr>
+</p>
 
-<td align="center" width="33%">
+### ⚙️ Frameworks & Technologies
 
-## 💻
+<p align="center">
 
-### SOFTWARE
+<img src="https://skillicons.dev/icons?i=flask,git,github" />
 
-Java  
-Python  
-C  
-HTML  
-CSS  
-SQL
+</p>
 
-</td>
+### 📊 Data & AI
 
-<td align="center" width="33%">
+<p align="center">
 
-## 🤖
+<img src="https://img.shields.io/badge/Pandas-10070C?style=for-the-badge&logo=pandas&logoColor=E5B5C7" />
+<img src="https://img.shields.io/badge/NumPy-451126?style=for-the-badge&logo=numpy&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Matplotlib-701A3D?style=for-the-badge&logo=python&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Machine_Learning-451126?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Deep_Learning-701A3D?style=for-the-badge&logo=pytorch&logoColor=FFFFFF" />
 
-### AI / DATA
-
-Machine Learning  
-Deep Learning  
-Pandas  
-NumPy  
-Matplotlib  
-Data Analysis
-
-</td>
-
-<td align="center" width="33%">
-
-## 🌐
-
-### DEVELOPMENT
-
-Flask  
-Streamlit  
-Git  
-GitHub  
-GUI Development  
-Web Development
-
-</td>
-
-</tr>
-</table>
+</p>
 
 ---
 
-<!-- ======================= SKILLS ======================== -->
+## ✨ Featured Projects
+
+### 🎮 Tic Tac Toe — Java GUI
+
+A Java-based Tic Tac Toe game featuring a graphical user interface.
+
+**Tech:** Java • GUI Development • Object-Oriented Programming
+
+---
+
+### 🚢 Titanic Survival — Exploratory Data Analysis
+
+An exploratory data analysis project investigating patterns and factors associated with passenger survival.
+
+**Tech:** Python • Pandas • NumPy • Matplotlib • Data Analysis
+
+---
+
+### 🎬 Movie Rating Predictor
+
+A machine-learning focused project exploring movie-related data and prediction techniques.
+
+**Tech:** Python • Machine Learning • Data Analysis
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Generative AI        █████████████████░░░
+Machine Learning     ████████████████░░░░
+Deep Learning        ██████████████░░░░░░
+Python               ██████████████████░░
+Software Development ████████████████░░░░
+```
+
+I'm continuously building my knowledge through projects, experimentation and hands-on learning.
+
+---
+
+## 📈 GitHub Journey
 
 <div align="center">
 
-# 🛠️ SKILLS & TOOLS
-
-<br>
-
-### 💜 LANGUAGES
-
-<img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=701A3D">
-<img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=701A3D">
-<img src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=701A3D">
-<img src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=701A3D">
-<img src="https://img.shields.io/badge/HTML-FFFFFF?style=for-the-badge&logo=html5&logoColor=701A3D">
-<img src="https://img.shields.io/badge/CSS-FFFFFF?style=for-the-badge&logo=css3&logoColor=701A3D">
-
-<br><br>
-
-### 🌷 FRAMEWORKS & LIBRARIES
-
-<img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=701A3D">
-<img src="https://img.shields.io/badge/Streamlit-FFFFFF?style=for-the-badge&logo=streamlit&logoColor=701A3D">
-<img src="https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=701A3D">
-<img src="https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=701A3D">
-<img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=701A3D">
-
-<br><br>
-
-### 🎀 DEVELOPMENT
-
-<img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=701A3D">
-<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=701A3D">
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=difinageorge&bg_color=10070C&color=F8F0F3&line=C77B9B&point=E5B5C7&area=true&hide_border=true"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
 ---
 
-<!-- ===================== PROJECTS ======================== -->
+## 📊 GitHub Stats
 
 <div align="center">
 
-# ✨ FEATURED PROJECTS
+<img
+  src="https://github-readme-stats.vercel.app/api?username=difinageorge&show_icons=true&hide_border=true&bg_color=10070C&title_color=E5B5C7&icon_color=C77B9B&text_color=F8F0F3"
+  height="180"
+  alt="GitHub Stats"
+/>
 
-</div>
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-<div align="center">
-
-### 🎯
-
-## Tic Tac Toe
-
-**Java GUI**
-
-</div>
-
-A desktop Tic Tac Toe game featuring a **player-vs-computer mode**.
-
-Built to explore Java programming, GUI development, and game logic.
-
-<br>
-
-**Tech**
-
-`Java` `GUI` `Game Logic`
-
-</td>
-
-<td width="33%" valign="top">
-
-<div align="center">
-
-### 🚢
-
-## Titanic Survival
-
-**Exploratory Data Analysis**
-
-</div>
-
-A data-analysis project exploring **passenger survival trends** using the Titanic dataset.
-
-Focused on discovering patterns within the available passenger data.
-
-<br>
-
-**Tech**
-
-`Python` `Pandas` `NumPy` `Matplotlib`
-
-</td>
-
-<td width="33%" valign="top">
-
-<div align="center">
-
-### 🎬
-
-## Movie Rating Predictor
-
-**Machine Learning**
-
-</div>
-
-A machine-learning regression project designed to **predict IMDb movie ratings** from available movie-related features.
-
-<br>
-
-**Tech**
-
-`Python` `Machine Learning` `Regression` `Pandas`
-
-</td>
-
-</tr>
-</table>
-
----
-
-<!-- ===================== LEARNING ======================== -->
-
-<div align="center">
-
-# 🌱 CURRENTLY LEARNING
-
-<br>
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-701A3D?style=for-the-badge&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Machine%20Learning-451126?style=for-the-badge&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Software%20Engineering-701A3D?style=for-the-badge&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Data%20Analysis-451126?style=for-the-badge&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Full%20Stack%20Development-701A3D?style=for-the-badge&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/UI%2FUX-451126?style=for-the-badge&logoColor=FFFFFF">
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=difinageorge&layout=compact&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3"
+  height="180"
+  alt="Top Languages"
+/>
 
 </div>
 
 ---
 
-<!-- ===================== CONNECT ========================= -->
+## 💌 Let's Connect
+
+I'm always interested in connecting with people who are passionate about **technology, AI, software development and creativity**.
 
 <div align="center">
-
-# 💌 LET'S CONNECT
-
-<br>
 
 <a href="https://github.com/difinageorge">
-<img src="https://img.shields.io/badge/GITHUB-10070C?style=for-the-badge&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/GitHub-10070C?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
 <a href="https://www.linkedin.com/in/difina-george-113420327/">
-<img src="https://img.shields.io/badge/LINKEDIN-701A3D?style=for-the-badge&logo=linkedin&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/LinkedIn-451126?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
 </a>
 
 <a href="mailto:difina.georgecs@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-451126?style=for-the-badge&logo=gmail&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/difina.georgecs%40gmail.com-701A3D?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
 </a>
-
-<br><br>
-
-### 🤍 I'd love to connect, collaborate, and build something amazing.
 
 </div>
 
 ---
 
-<!-- ======================= QUOTE ========================= -->
-
 <div align="center">
+
+### ✨ *"Code like a girl: elegant, efficient, and unstoppable!"* ✨
 
 <br>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:701A3D,50:451126,100:10070C&section=footer&text=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20REPEAT&fontColor=FFFFFF&fontSize=22&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:701A3D,50:451126,100:10070C&section=footer"
 />
 
-<br>
-
-### 🌸 *"Code like a girl: elegant, efficient, and unstoppable!"*
-
-<br>
-
-`✦ BUILD · LEARN · CREATE · REPEAT ✦`
-
 </div>
-
