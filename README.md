@@ -1,47 +1,146 @@
-<!-- Header -->
-<h1 align="center">✨ Hey, I'm Difina! 🌸💻</h1>
-<p align="center">
-🎓 BSc (Hons) Computer Science @ York St John University (Sept 2025)<br>
-💡 Aspiring Software Engineer & AI Enthusiast<br>
-🌏 Based in the UK<br>
-☕ Fueled by coffee, curiosity & creativity
-</p>
+<!--
+  DIFINA GEORGE — GITHUB PROFILE README
+  Premium burgundy / rose developer identity
+-->
+
+<div align="center">
+
+# ✦ Hey, I'm Difina ✦
+
+### `Software Engineering` · `AI/ML` · `Creative Technology`
+
+🎓 **BSc (Hons) Computer Science** @ York St John University  
+📍 UK · ☕ Coffee-powered · 🌸 Creativity-driven
+
+<br>
+
+<a href="https://github.com/difinageorge">
+  <img src="https://img.shields.io/badge/GitHub-10070C?style=for-the-badge&logo=github&logoColor=F8F0F3" />
+</a>
+<a href="https://www.linkedin.com/in/difina-george-113420327/">
+  <img src="https://img.shields.io/badge/LinkedIn-451126?style=for-the-badge&logo=linkedin&logoColor=E5B5C7" />
+</a>
+<a href="mailto:difina.georgecs@gmail.com">
+  <img src="https://img.shields.io/badge/Email-701A3D?style=for-the-badge&logo=gmail&logoColor=F8F0F3" />
+</a>
+
+</div>
 
 ---
 
- ## 💖 About Me 
+## 🌸 About Me
 
-I’m a tech-loving student who blends **creativity and logic** to bring ideas to life.  
-My passion lies in **software development, AI/ML, and beautiful user interfaces**.  
-When I’m not coding, I’m exploring new tech tools or designing cute, aesthetic layouts.  
+I'm a tech-loving Computer Science student who enjoys bringing together **logic, creativity, and technology** to build things that are both useful and visually engaging.
 
----
+My interests sit at the intersection of:
 
-## 🛠 Skills & Tools
-| Languages        | Frameworks & Tools   | Technologies     |
-|------------------|----------------------|------------------|
-| 💜 **Python**    | 🌸 Flask              | 🤖 Machine Learning |
-| 💛 **Java**      | 💗 Streamlit          | 🧠 Deep Learning |
-| 💙 **C**         | 🎀 Git, GitHub        | 🗂 Databases     |
-| 💖 **SQL**       | 📊 Pandas, NumPy      | 📈 Data Analysis |
-| 💗 **HTML/CSS**  | 🎨 Matplotlib         | 🌐 Web Dev       |
+- 💻 **Software Development**
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 🎨 **UI / UX and creative interfaces**
+- 📊 **Data Analysis**
+- 🌱 **Continuous learning and experimentation**
+
+I love turning an idea into something tangible — whether that's a Java application, a machine-learning model, a data exploration project, or a carefully designed interface.
 
 ---
 
-## 🌟 Featured Projects
-- 🎯 **Tic Tac Toe – Java GUI** → Fun desktop game with player vs computer mode  
-- 🚢 **Titanic Survival EDA** → Data analysis on passenger survival trends  
-- 🎬 **Movie Rating Predictor** → ML regression model predicting IMDb ratings  
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+| Technology | Experience |
+|---|---|
+| 🐍 **Python** | AI/ML · Data Analysis · Development |
+| ☕ **Java** | Object-Oriented Programming · GUI Development |
+| 💙 **C** | Programming Fundamentals |
+| 💖 **SQL** | Databases · Data |
+| 🌐 **HTML / CSS** | Web Development |
+
+### 🌷 Frameworks & Tools
+
+| Category | Tools |
+|---|---|
+| Web | Flask · Streamlit |
+| Data | Pandas · NumPy · Matplotlib |
+| AI / ML | Machine Learning · Deep Learning |
+| Development | Git · GitHub |
+| Databases | SQL |
 
 ---
 
-## 💌 Connect with Me
-<p align="center">
-<a href="https://github.com/difinageorge"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/difina-george-113420327/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-<a href="mailto:difina.georgecs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-</p>
+## ✨ Featured Projects
+
+### 🎯 Tic Tac Toe — Java GUI
+
+A desktop Tic Tac Toe game featuring a **player-vs-computer mode**, combining Java programming with a graphical user interface.
+
+**Tech:** `Java` · `GUI` · `Game Logic`
 
 ---
 
-<p align="center">💬 *"Code like a girl: elegant, efficient, and unstoppable!"* </p>
+### 🚢 Titanic Survival — Exploratory Data Analysis
+
+An exploratory data-analysis project investigating **passenger survival patterns** within the Titanic dataset.
+
+**Tech:** `Python` · `Pandas` · `NumPy` · `Matplotlib` · `Data Analysis`
+
+---
+
+### 🎬 Movie Rating Predictor
+
+A **machine-learning regression project** designed to predict IMDb movie ratings from available movie-related features.
+
+**Tech:** `Python` · `Machine Learning` · `Regression` · `Pandas`
+
+---
+
+## 📊 What I'm Exploring
+
+```text
+Software Engineering   ███████████████░░░  Building better applications
+Artificial Intelligence █████████████░░░░░  Exploring ML & DL
+Data Analysis           ████████████░░░░░░  Finding patterns in data
+UI / UX                 ███████████░░░░░░░  Making interfaces beautiful
+```
+
+---
+
+## 🌱 Currently Learning
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 💻 Software Engineering practices
+- 📊 Data-driven development
+- 🌐 Full-stack development
+- 🎨 Better UI/UX design
+
+---
+
+## 💌 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/difinageorge">
+<img src="https://img.shields.io/badge/GitHub-10070C?style=for-the-badge&logo=github&logoColor=F8F0F3">
+</a>
+
+<a href="https://www.linkedin.com/in/difina-george-113420327/">
+<img src="https://img.shields.io/badge/LinkedIn-451126?style=for-the-badge&logo=linkedin&logoColor=F8F0F3">
+</a>
+
+<a href="mailto:difina.georgecs@gmail.com">
+<img src="https://img.shields.io/badge/Email-701A3D?style=for-the-badge&logo=gmail&logoColor=F8F0F3">
+</a>
+
+<br><br>
+
+### 💭 *"Code like a girl: elegant, efficient, and unstoppable!"*
+
+</div>
+
+---
+
+<div align="center">
+
+`✦ BUILD · LEARN · CREATE · REPEAT ✦`
+
+</div>
