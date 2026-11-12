@@ -1,4 +1,4 @@
-```markdown
+
 <!-- ========================================================= -->
 <!--                   DIFINA GEORGE                            -->
 <!--              PREMIUM BURGUNDY README                       -->
@@ -281,45 +281,6 @@ A machine-learning regression project designed to **predict IMDb movie ratings**
 
 ---
 
-<!-- ===================== CONTRIBUTION =================== -->
-
-<div align="center">
-
-# 📈 MY GITHUB JOURNEY
-
-<br>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=difinageorge&bg_color=190B12&color=FFFFFF&line=C77B9B&point=E5B5C7&area=true&hide_border=true"
-  width="100%"
-  alt="GitHub activity graph"
-/>
-
-</div>
-
-> **Note:** GitHub activity widgets depend on external services and may occasionally be unavailable. No contribution counts or statistics are manually fabricated.
-
----
-
-<!-- ===================== GITHUB ========================== -->
-
-<div align="center">
-
-# 💻 GITHUB
-
-<a href="https://github.com/difinageorge">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=difinageorge&show_icons=true&hide_border=true&bg_color=190B12&title_color=FFFFFF&text_color=F8F0F3&icon_color=E5B5C7&ring_color=C77B9B"
-  alt="Difina's GitHub statistics"
-/>
-
-</a>
-
-</div>
-
----
-
 <!-- ===================== CONNECT ========================= -->
 
 <div align="center">
@@ -367,4 +328,4 @@ A machine-learning regression project designed to **predict IMDb movie ratings**
 `✦ BUILD · LEARN · CREATE · REPEAT ✦`
 
 </div>
-```
+
